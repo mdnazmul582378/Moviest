@@ -29,3 +29,25 @@ https://terabox.com/sharing/embed?surl=5XKEknJ8ojXBKK9tqCNHMw&resolution=1080&au
 #EXTINF:-1 tvg-id="10020" tvg-name="" tvg-logo="" group-title="Movies"
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="100001" tvg-name="WebSeries Season 1" tvg-logo="https://i.ibb.co.com/NCPwDZP/Vikram2022.jpg" group-title="WEB SERIES"
+#Streaming.link (এই লিঙ্কটি সিজন ১ এর মেইন লিঙ্ক)
+
+#EXTINF:-1 tvg-id="WebSeries01" tvg-name="Episode 1 - WebSeries Season 1" tvg-logo="https://i.ibb.co.com/NCPwDZP/Vikram2022.jpg" group-title="WEB SERIES|SEASON 1"
+Streaming.link (এই লিঙ্কটি এপিসোড ১ এর লিঙ্ক)
+
+#EXTINF:-1 tvg-id="WebSeries02" tvg-name="Episode 2 - WebSeries Season 1" tvg-logo="https://i.ibb.co.com/NCPwDZP/Vikram2022.jpg" group-title="WEB SERIES|SEASON 1"
+Streaming.link (এই লিঙ্কটি এপিসোড ২ এর লিঙ্ক)
+
+#EXTINF:-1 tvg-id="WebSeries03" tvg-name="Episode 3 - WebSeries Season 1" tvg-logo="https://i.ibb.co.com/NCPwDZP/Vikram2022.jpg" group-title="WEB SERIES|SEASON 1"
+Streaming.link (এই লিঙ্কটি এপিসোড ৩ এর লিঙ্ক)
+
+#EXTINF:-1 tvg-id="WebSeries04" tvg-name="Episode 4 - WebSeries Season 1" tvg-logo="https://i.ibb.co.com/NCPwDZP/Vikram2022.jpg" group-title="WEB SERIES|SEASON 1"
+Streaming.link (এই লিঙ্কটি এপিসোড ৪ এর লিঙ্ক)
+
+#EXTINF:-1 tvg-id="WebSeries05" tvg-name="Episode 5 - WebSeries Season 1" tvg-logo="https://i.ibb.co.com/NCPwDZP/Vikram2022.jpg" group-title="WEB SERIES|SEASON 1"
+Streaming.link (এই লিঙ্কটি এপিসোড ৫ এর লিঙ্ক)
